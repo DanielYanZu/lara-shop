@@ -1,4 +1,3 @@
-<img height=70 src="https://beikeshop.com/image/beike.svg" >
 
 #  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;一款开源好用的跨境电商系统
 
