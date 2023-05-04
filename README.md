@@ -105,5 +105,3 @@ PHP语言开发，基于 Laravel 框架，前端 Blade 模板 + Vue
 1. 提交代码
 1. 新建 Merge Request
 
-## QQ交流群： 
-群1: 639108380
